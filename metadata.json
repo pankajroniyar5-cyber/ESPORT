@@ -1,0 +1,6 @@
+{
+  "name": "EsportsHub - Free Fire Tournament Platform",
+  "description": "Full-stack esports tournament registration and management platform with live leaderboards, team tracking, and secure admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
